@@ -1,5 +1,24 @@
-### Hi there 👋
+<p align="left">
+  <br><br>
+  <samp>
+    :wave: Hey! Welcome to my profile
+    <br> 🔭 I’m currently working on embedded software
+    <br> 📫 How to reach me: shaxuezheng@outlook.com
+    <br>
+    <br>
+    <img align="left" src="https://github-readme-stats.vercel.app/api?username=95Jack&show_icons=true&theme=dark" />
+    <br>
+  </samp>
+<br>
+</p>
 
+
+
+<!-- - 📫 How to reach me: shaxuezheng@outlook.com
+
+[![George_Sha github stats](https://github-readme-stats.vercel.app/api?username=95Jack&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
+![](https://visitor-badge.glitch.me/badge?page_id=95Jack.readme) -->
 <!--
 **95Jack/95Jack** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
