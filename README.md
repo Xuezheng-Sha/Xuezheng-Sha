@@ -6,7 +6,7 @@
     <br> 📫 How to reach me: shaxuezheng@outlook.com
     <br>
     <br>
-    <img align="left" src="https://github-readme-stats.vercel.app/api?username=95Jack&show_icons=true&theme=dark" />
+    <img align="left" src="https://github-readme-stats.vercel.app/api?username=Xuezheng-Sha&show_icons=true&theme=dark" />
     <br>
   </samp>
 <br>
@@ -16,11 +16,11 @@
 
 <!-- - 📫 How to reach me: shaxuezheng@outlook.com
 
-[![George_Sha github stats](https://github-readme-stats.vercel.app/api?username=95Jack&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![George_Sha github stats](https://github-readme-stats.vercel.app/api?username=Xuezheng-Sha&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ![](https://visitor-badge.glitch.me/badge?page_id=Xuezheng-Sha.readme) -->
 <!--
-**95Jack/95Jack** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Xuezheng-Sha/Xuezheng-Sha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
